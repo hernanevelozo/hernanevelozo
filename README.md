@@ -41,6 +41,6 @@ I'm a computer engineering student and I work with management on Brazil
  <img align="center" alt="Hernane-ArduinoStuff" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
  </div>
 <br>
-<P align="center">"Acredito que a tecnologia é fundamental nos dias de hoje e espero conseguir contribuir com o desenvolvimento humano a partir do meu conhecimento, sendo motor de mudança social e poder impactar pessoas a partir do meu trabalho."</P>
+<P align="center">"Acredito que a tecnologia é fundamental nos dias de hoje e espero conseguir contribuir com o desenvolvimento humano."</P>
 <br>
 <P align="center">Este repositório possui a finalidade de uso no âmbito acadêmico.</P>
